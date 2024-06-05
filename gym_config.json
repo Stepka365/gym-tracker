@@ -1,0 +1,224 @@
+{
+  "name": "FatDogGym",
+  "logo": "https://firebasestorage.googleapis.com/v0/b/gym-tracker-data.appspot.com/o/fat_dog.png?alt=media&token=4547fad8-16be-41c9-bcfa-1f5fed4e2fe0",
+  "photos": [
+    {
+      "url": "https://shumoizolyatsiya.org/uploads/s/r/t/z/rtz2atupgbta/img/full_uploaded_by_url_zouSK72D.jpg",
+      "location": "Free weights"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6161-6639-4236-b463-303639316263/kardio-zal_1.jpg",
+      "location": "Cardio zone"
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6463-6231-4531-a530-616534343863/2.jpg",
+      "location": "Power trainers"
+    }
+  ],
+  "trainers_num": 10,
+  "contact_data": {
+    "phone": [
+      "+11111111111",
+      "+79222222222"
+    ]
+  },
+  "trainers": {
+    "free_weights": [
+      {
+        "name": "Bench Press Bench",
+        "number": 4
+      },
+      {
+        "name": "Power Bench with Racks",
+        "number": 2
+      },
+      {
+        "name": "Hyperextensions",
+        "number": 3
+      },
+      {
+        "name": "Scott Bench",
+        "number": 1
+      },
+      {
+        "name": "Dumbbells (various weights)",
+        "number": 3
+      },
+      {
+        "name": "Barbell Set (various weights)",
+        "number": 2
+      },
+      {
+        "name": "Adjustable Bench",
+        "number": 3
+      },
+      {
+        "name": "Abdominal Bench",
+        "number": 2
+      }
+    ],
+    "cardio": [
+      {
+        "name": "Treadmill",
+        "number": 10
+      },
+      {
+        "name": "Exercise Bike",
+        "number": 2
+      },
+      {
+        "name": "Elliptical Trainer",
+        "number": 4
+      },
+      {
+        "name": "Rowing Machine",
+        "number": 1
+      },
+      {
+        "name": "Stepper",
+        "number": 1
+      }
+    ],
+    "power_trainers": [
+      {
+        "name": "Smith Machine",
+        "number": 2
+      },
+      {
+        "name": "Lat Pulldown Machines",
+        "number": 3
+      },
+      {
+        "name": "Seated Row Machines",
+        "number": 3
+      },
+      {
+        "name": "Leg Press",
+        "number": 2
+      },
+      {
+        "name": "Triceps Extension Machine",
+        "number": 2
+      },
+      {
+        "name": "Leg Curl Machine",
+        "number": 2
+      },
+      {
+        "name": "Leg Extension Machine",
+        "number": 2
+      },
+      {
+        "name": "Shoulder Press Machine",
+        "number": 2
+      }
+
+    ]
+  },
+  "rating_score": 3,
+  "rating_price": 1,
+  "address": "Москва, ул. Малая Бронная, д. 88, 1 подъезд, 12 этаж, кв. 1105А",
+  "description": "FatDogGym - это уникальный, комфортный зал нового поколения.\nПриходите посетить наши открытые тренировки и приводите с собой своих мохнатых друзей! Наши цены и качество вам понравятся! Покупайте абонемент в Gym Tracker и приходите на тренировку! 150 тренажеров всевозможных видов - вы найдете нужное! До встречи на тренировке! С уважением, команда толстых собак <3",
+  "pricing": [
+    {
+      "name": "Platinum Membership",
+      "price": 10000,
+      "sale_price": 9000,
+      "duration_months": 12,
+      "freeze_days": 60
+    },
+    {
+      "name": "Gold Membership",
+      "price": 8000,
+      "sale_price": 7000,
+      "duration_months": 12,
+      "freeze_days": 45
+    },
+    {
+      "name": "Silver Membership",
+      "price": 6000,
+      "sale_price": 5500,
+      "duration_months": 6,
+      "freeze_days": 30
+    },
+    {
+      "name": "Bronze Membership",
+      "price": 4000,
+      "sale_price": 3500,
+      "duration_months": 3,
+      "freeze_days": 15
+    },
+    {
+      "name": "Student Membership",
+      "price": 5000,
+      "sale_price": 4500,
+      "duration_months": 9,
+      "freeze_days": 30
+    },
+    {
+      "name": "Family Membership",
+      "price": 12000,
+      "sale_price": 11000,
+      "duration_months": 12,
+      "freeze_days": 90
+    },
+    {
+      "name": "Corporate Membership",
+      "price": 20000,
+      "sale_price": 18000,
+      "duration_months": 12,
+      "freeze_days": 120
+    },
+    {
+      "name": "Basic Membership",
+      "price": 3000,
+      "sale_price": 2500,
+      "duration_months": 1,
+      "freeze_days": 7
+    },
+    {
+      "name": "Seasonal Membership",
+      "price": 7000,
+      "sale_price": 6400,
+      "duration_months": 6,
+      "freeze_days": 30
+    },
+    {
+      "name": "Weekend Membership",
+      "price": 5600,
+      "sale_price": 5000,
+      "duration_months": 3,
+      "freeze_days": 10
+    }
+  ],
+  "schedule": {
+    "monday": {
+      "opening": "09:00",
+      "closing": "21:00"
+    },
+    "tuesday": {
+      "opening": "09:00",
+      "closing": "21:00"
+    },
+    "wednesday": {
+      "opening": "09:00",
+      "closing": "21:00"
+    },
+    "thursday": {
+      "opening": "09:00",
+      "closing": "21:00"
+    },
+    "friday": {
+      "opening": "09:00",
+      "closing": "21:00"
+    },
+    "saturday": {
+      "opening": "09:00",
+      "closing": "21:00"
+    },
+    "sunday": {
+      "opening": "09:00",
+      "closing": "21:00"
+    }
+  }
+}

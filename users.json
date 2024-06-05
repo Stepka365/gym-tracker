@@ -1,0 +1,503 @@
+[
+  {
+    "u_id": 0,
+    "phone": "+79777777777",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 2,
+    "phone": "+79222222222",
+    "admin_rights": 1
+  },
+  {
+    "u_id": 3,
+    "phone": "+79333333333",
+    "admin_rights": 2
+  },
+  {
+    "u_id": 4,
+    "phone": "+79444444444",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 5,
+    "phone": "+79555555555",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 6,
+    "phone": "+79676594506",
+    "admin_rights": 2
+  },
+  {
+    "u_id": 7,
+    "phone": "+79530431533",
+    "admin_rights": 2
+  },
+  {
+    "u_id": 8,
+    "phone": "+79888888888",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 9,
+    "phone": "+79666666666",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 10,
+    "phone": "+79123456789",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 11,
+    "phone": "+79234567890",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 12,
+    "phone": "+79345678901",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 13,
+    "phone": "+79456789012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 14,
+    "phone": "+79567890123",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 15,
+    "phone": "+79678901234",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 16,
+    "phone": "+79789012345",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 17,
+    "phone": "+79890123456",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 18,
+    "phone": "+79901234567",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 19,
+    "phone": "+79134567890",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 20,
+    "phone": "+79245678901",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 21,
+    "phone": "+79356789012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 22,
+    "phone": "+79467890123",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 23,
+    "phone": "+79578901234",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 24,
+    "phone": "+79689012345",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 25,
+    "phone": "+79790123456",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 26,
+    "phone": "+79801234567",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 27,
+    "phone": "+79912345678",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 28,
+    "phone": "+79123456780",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 29,
+    "phone": "+79234567801",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 30,
+    "phone": "+79345678012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 31,
+    "phone": "+79456789023",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 32,
+    "phone": "+79567890134",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 33,
+    "phone": "+79678901245",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 34,
+    "phone": "+79789012356",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 35,
+    "phone": "+79890123467",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 36,
+    "phone": "+79901234578",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 37,
+    "phone": "+79123456789",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 38,
+    "phone": "+79234567890",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 39,
+    "phone": "+79345678901",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 40,
+    "phone": "+79456789012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 41,
+    "phone": "+79567890123",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 42,
+    "phone": "+79678901234",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 43,
+    "phone": "+79789012345",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 44,
+    "phone": "+79890123456",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 45,
+    "phone": "+79901234567",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 46,
+    "phone": "+79134567890",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 47,
+    "phone": "+79245678901",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 48,
+    "phone": "+79356789012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 49,
+    "phone": "+79467890123",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 50,
+    "phone": "+79578901234",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 51,
+    "phone": "+79689012345",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 52,
+    "phone": "+79790123456",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 53,
+    "phone": "+79801234567",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 54,
+    "phone": "+79912345678",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 55,
+    "phone": "+79123456780",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 56,
+    "phone": "+79234567801",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 57,
+    "phone": "+79345678012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 58,
+    "phone": "+79456789023",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 59,
+    "phone": "+79567890134",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 60,
+    "phone": "+79678901245",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 61,
+    "phone": "+79789012356",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 62,
+    "phone": "+79890123467",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 63,
+    "phone": "+79901234578",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 64,
+    "phone": "+79123456789",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 65,
+    "phone": "+79234567890",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 66,
+    "phone": "+79345678901",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 67,
+    "phone": "+79456789012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 68,
+    "phone": "+79567890123",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 69,
+    "phone": "+79678901234",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 70,
+    "phone": "+79789012345",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 71,
+    "phone": "+79890123456",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 72,
+    "phone": "+79901234567",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 73,
+    "phone": "+79134567890",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 74,
+    "phone": "+79245678901",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 75,
+    "phone": "+79356789012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 76,
+    "phone": "+79467890123",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 77,
+    "phone": "+79578901234",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 78,
+    "phone": "+79689012345",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 79,
+    "phone": "+79790123456",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 80,
+    "phone": "+79801234567",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 81,
+    "phone": "+79912345678",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 82,
+    "phone": "+79123456780",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 83,
+    "phone": "+79234567801",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 84,
+    "phone": "+79345678012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 85,
+    "phone": "+79456789023",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 86,
+    "phone": "+79567890134",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 87,
+    "phone": "+79678901245",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 88,
+    "phone": "+79789012356",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 89,
+    "phone": "+79890123467",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 90,
+    "phone": "+79901234578",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 91,
+    "phone": "+79123456789",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 92,
+    "phone": "+79234567890",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 93,
+    "phone": "+79345678901",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 94,
+    "phone": "+79456789012",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 95,
+    "phone": "+79567890123",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 96,
+    "phone": "+79678901234",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 97,
+    "phone": "+79789012345",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 98,
+    "phone": "+79890123456",
+    "admin_rights": 0
+  },
+  {
+    "u_id": 99,
+    "phone": "+79901234567",
+    "admin_rights": 0
+  },
+  {
+    "phone": "+11111111111",
+    "u_id": 100,
+    "admin_rights": 0,
+    "end_date": "2025-05-25"
+  }
+]
